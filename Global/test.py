@@ -90,8 +90,8 @@ def parameter_set(opt):
 
 if __name__ == "__main__":
 
-    opt = TestOptions().parse(save=False)
-    parameter_set(opt)
+    #opt = TestOptions().parse(save=False)
+    #parameter_set(opt)
 
     model = Pix2PixHDModel_Mapping()
 
