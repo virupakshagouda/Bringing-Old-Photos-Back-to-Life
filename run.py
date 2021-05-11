@@ -97,7 +97,7 @@ if __name__ == "__main__":
         shutil.copy(img_dir, stage_4_output_dir)
 
     print("Finish Stage 1 ...")
-      print("\n")
+    print("\n")
 
     ## Stage 2: Face Detection
 
